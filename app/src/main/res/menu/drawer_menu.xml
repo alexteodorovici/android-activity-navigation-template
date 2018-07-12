@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_menu_home"
+            android:icon="@drawable/ic_drafts_black_24dp"
+            android:title="@string/drawer_menu_homepage" />
+        <item
+            android:id="@+id/drawer_menu_page2"
+            android:icon="@drawable/ic_drafts_black_24dp"
+            android:title="@string/drawer_menu_page2" />
+        <item
+            android:id="@+id/drawer_menu_page3"
+            android:icon="@drawable/ic_drafts_black_24dp"
+            android:title="@string/drawer_menu_page3" />
+        <item
+            android:id="@+id/drawer_menu_page4"
+            android:icon="@drawable/ic_drafts_black_24dp"
+            android:title="@string/drawer_menu_page4" />
+    </group>
+</menu>
